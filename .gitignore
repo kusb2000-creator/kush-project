@@ -1,0 +1,4 @@
+# Generated FreeCAD output
+output/
+*.FCBak
+*.FCStd1
